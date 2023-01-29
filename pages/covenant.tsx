@@ -42,7 +42,7 @@ const Covenant = () => (
           <p className="mt-4">
             If you are a server owner, and your server passes these
             requirements, you can send an e-mail to{" "}
-            <span className="font-bold">hello@joinmastodon.org</span> with the
+            <span className="font-bold">hello@quicksales.vn</span> with the
             subject &quot;Server submission&quot; to be listed on this website.
             Please include the <strong>domain name</strong>, whether you are a
             private individual or represent an organization, in which country
@@ -115,7 +115,7 @@ const Covenant = () => (
           <title>Mastodon Server Covenant - Mastodon</title>
           <meta
             property="og:title"
-            content="Mastodon Server Covenant for joinmastodon.org"
+            content="Mastodon Server Covenant for quicksales.vn"
           />
         </Head>
       </BasicPage>

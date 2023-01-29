@@ -208,10 +208,10 @@ const About = () => (
                 <dt className="font-bold">Press inquiries:</dt>
                 <dd>
                   <a
-                    href="mailto:press@joinmastodon.org"
+                    href="mailto:press@quicksales.vn"
                     className="text-blurple-500 hover:underline"
                   >
-                    press@joinmastodon.org
+                    press@quicksales.vn
                   </a>
                 </dd>
               </div>
@@ -220,10 +220,10 @@ const About = () => (
                 <dt className="font-bold">Legal inquiries:</dt>
                 <dd>
                   <a
-                    href="mailto:legal@joinmastodon.org"
+                    href="mailto:legal@quicksales.vn"
                     className="text-blurple-500 hover:underline"
                   >
-                    legal@joinmastodon.org
+                    legal@quicksales.vn
                   </a>
                 </dd>
               </div>
@@ -232,10 +232,10 @@ const About = () => (
                 <dt className="font-bold">Trademark inquiries:</dt>
                 <dd>
                   <a
-                    href="mailto:trademark@joinmastodon.org"
+                    href="mailto:trademark@quicksales.vn"
                     className="text-blurple-500 hover:underline"
                   >
-                    trademark@joinmastodon.org
+                    trademark@quicksales.vn
                   </a>
                 </dd>
               </div>
@@ -244,10 +244,10 @@ const About = () => (
                 <dt className="font-bold">Security inquiries:</dt>
                 <dd>
                   <a
-                    href="mailto:security@joinmastodon.org"
+                    href="mailto:security@quicksales.vn"
                     className="text-blurple-500 hover:underline"
                   >
-                    security@joinmastodon.org
+                    security@quicksales.vn
                   </a>
                 </dd>
               </div>
@@ -256,10 +256,10 @@ const About = () => (
                 <dt className="font-bold">Other inquiries:</dt>
                 <dd>
                   <a
-                    href="mailto:hello@joinmastodon.org"
+                    href="mailto:hello@quicksales.vn"
                     className="text-blurple-500 hover:underline"
                   >
-                    hello@joinmastodon.org
+                    hello@quicksales.vn
                   </a>
                 </dd>
               </div>
@@ -292,10 +292,10 @@ const About = () => (
                     <dt className="font-bold">Kontakt:</dt>
                     <dd>
                       <a
-                        href="mailto:hello@joinmastodon.org"
+                        href="mailto:hello@quicksales.vn"
                         className="text-blurple-500 hover:underline"
                       >
-                        hello@joinmastodon.org
+                        hello@quicksales.vn
                       </a>
                     </dd>
                   </div>
@@ -343,7 +343,7 @@ const Metrics = () => {
   const days = useQuery<Day[]>(
     ["statistics"],
     () =>
-      fetch("https://api.joinmastodon.org/statistics").then((res) =>
+      fetch("https://api.quicksales.vn/statistics").then((res) =>
         res.json()
       ),
     { cacheTime: 30 * 60 * 1000 }

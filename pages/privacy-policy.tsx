@@ -16,7 +16,7 @@ const PrivacyPolicy = () => (
         <div>
           <p>
             <strong>
-              This is the privacy policy for the joinmastodon.org website and
+              This is the privacy policy for the quicksales.vn website and
               related services.
             </strong>{" "}
             It is not the privacy policy for Mastodon the social network.
@@ -30,7 +30,7 @@ const PrivacyPolicy = () => (
           <p>
             <strong>
               If you sign up to one of our newsletters by submitting a form on
-              joinmastodon.org or its subdomains
+              quicksales.vn or its subdomains
             </strong>
             , we collect your e-mail address as well as the time and date of the
             sign up.
@@ -52,7 +52,7 @@ const PrivacyPolicy = () => (
           <title>Privacy Policy - Mastodon</title>
           <meta
             property="og:title"
-            content="Privacy Policy for joinmastodon.org"
+            content="Privacy Policy for quicksales.vn"
           />
         </Head>
       </BasicPage>

@@ -1,4 +1,4 @@
-# joinmastodon.org
+# quicksales.vn
 
 Informational site for the Mastodon project
 

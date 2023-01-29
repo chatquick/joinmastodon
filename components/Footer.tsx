@@ -101,17 +101,17 @@ export const Footer = () => (
                   className="inline-block py-2 hover:underline"
                   target="_blank"
                   rel="noopener noreferrer"
-                  key="https://blog.joinmastodon.org"
-                  href="https://blog.joinmastodon.org/"
+                  key="https://blog.quicksales.vn"
+                  href="https://blog.quicksales.vn/"
                 >
                   <FormattedMessage id="nav.blog.title" defaultMessage="Blog" />
                 </a>,
                 <a
                   className="inline-block py-2 hover:underline"
-                  key="joinmastodon.org"
+                  key="quicksales.vn"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://docs.joinmastodon.org"
+                  href="https://docs.quicksales.vn"
                 >
                   <FormattedMessage
                     id="nav.docs.title"

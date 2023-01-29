@@ -126,7 +126,7 @@ const AppsPage = () => {
                 defaultMessage="API documentation"
               />
             ),
-            cta_link: "https://docs.joinmastodon.org/client/intro/",
+            cta_link: "https://docs.quicksales.vn/client/intro/",
           },
         ]}
       />

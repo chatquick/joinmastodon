@@ -51,7 +51,7 @@ function Sponsors() {
                 defaultMessage="Become a sponsor"
               />
             ),
-            cta_link: "https://sponsor.joinmastodon.org/",
+            cta_link: "https://sponsor.quicksales.vn/",
           },
           {
             Icon: DonateBoxIcon,

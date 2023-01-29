@@ -48,10 +48,10 @@ const Trademark = () => (
           To request the use of the Mastodon name and logos in a way not covered
           in these guidelines, or to report violations, please contact us at 
           <a
-            href="mailto:trademark@joinmastodon.org"
+            href="mailto:trademark@quicksales.vn"
             className="text-blurple-500 hover:underline"
           >
-            trademark@joinmastodon.org
+            trademark@quicksales.vn
           </a>
           . In the event that we do not approve such use of the Mastodon name
           and logos within ten (10) business days, your request shall be deemed

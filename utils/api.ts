@@ -1,4 +1,4 @@
-const apiBase = "https://api.joinmastodon.org/"
+const apiBase = "https://api.quicksales.vn/"
 
 const getApiUrl = (path, params = "") => `${apiBase}${path}?${params}`
 

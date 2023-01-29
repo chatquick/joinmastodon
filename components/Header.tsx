@@ -37,11 +37,11 @@ const Header = ({ transparent = true }: HeaderProps) => {
       label: <FormattedMessage id="nav.resources.title" defaultMessage="Resources" />,
       childItems: [
         {
-          value: "https://blog.joinmastodon.org/",
+          value: "https://blog.quicksales.vn/",
           label: <FormattedMessage id="nav.blog.title" defaultMessage="Blog" />,
           description: <FormattedMessage id="nav.blog.description" defaultMessage="Get the latest news about the platform" />,
         }, {
-          value: "https://docs.joinmastodon.org",
+          value: "https://docs.quicksales.vn",
           label: <FormattedMessage id="nav.docs.title" defaultMessage="Documentation" />,
           description: <FormattedMessage id="nav.docs.description" defaultMessage="Learn how Mastodon works in-depth" />,
         }, {

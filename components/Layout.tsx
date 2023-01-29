@@ -5,7 +5,7 @@ import Header from "./Header"
 import { locales, defaultLocale } from "../data/locales"
 import { useRouter } from "next/router"
 
-const BASE_URL = "https://joinmastodon.org"
+const BASE_URL = "https://quicksales.vn"
 
 /** Default layout component */
 export const Layout = ({
@@ -36,7 +36,7 @@ export const Layout = ({
       <Head>
         <meta
           property="og:image"
-          content="https://joinmastodon.org/preview.png"
+          content="https://quicksales.vn/preview.png"
         />
         <meta property="twitter:card" content="summary_large_image" />
 

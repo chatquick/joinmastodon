@@ -133,7 +133,7 @@ const Features = () => {
           button: (
             <LinkButton
               size="large"
-              href="https://docs.joinmastodon.org/user/moderating/"
+              href="https://docs.quicksales.vn/user/moderating/"
             >
               <FormattedMessage
                 id="home.features.button.learn_more"
@@ -159,7 +159,7 @@ const Features = () => {
           button: (
             <LinkButton
               size="large"
-              href="https://docs.joinmastodon.org/user/run-your-own/"
+              href="https://docs.quicksales.vn/user/run-your-own/"
             >
               <FormattedMessage
                 id="home.features.button.learn_more"
@@ -208,7 +208,7 @@ const Features = () => {
           button: (
             <LinkButton
               size="large"
-              href="https://docs.joinmastodon.org/user/posting/"
+              href="https://docs.quicksales.vn/user/posting/"
             >
               <FormattedMessage
                 id="home.features.button.learn_more"
@@ -475,7 +475,7 @@ const Sponsors = ({ sponsors }) => {
           </p>
 
           <div className="flex flex-col items-center justify-center gap-6 sm:flex-row">
-            <LinkButton href="https://sponsor.joinmastodon.org/" size="large">
+            <LinkButton href="https://sponsor.quicksales.vn/" size="large">
               <FormattedMessage
                 id="sponsors.become_a_sponsor"
                 defaultMessage="Become a sponsor"

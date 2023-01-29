@@ -9,7 +9,7 @@ const nextConfig = {
   },
   images: {
     domains: [
-      "proxy.joinmastodon.org",
+      "proxy.quicksales.vn",
       "c8.patreon.com",
       "c10.patreonusercontent.com",
     ],
